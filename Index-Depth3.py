@@ -1,3 +1,4 @@
+# Created with the assistance of ChatGPT
 import os
 
 # Function to create an index of a folder and its subfolders
